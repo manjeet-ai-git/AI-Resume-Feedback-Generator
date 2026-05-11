@@ -5,8 +5,8 @@ Follow these steps to set up and run the project on your local machine.
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repository-url>
-cd <your-repository-folder>
+git clone <https://github.com/manjeet-ai-git/AI-Resume-Feedback-Generator.git>
+cd <"C:\Users\shekh\Downloads\Resume_App-main (1)\Resume_App-main">
 ```
 
 ### 2. Create a Virtual Environment
